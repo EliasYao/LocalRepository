@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Implementation-Title: Archetype - e5e5
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: Shuang
+Built-By: acer
 Implementation-Vendor-Id: tw.com.softleader
 Build-Jdk: 1.8.0_60
 Created-By: Maven Integration for Eclipse
